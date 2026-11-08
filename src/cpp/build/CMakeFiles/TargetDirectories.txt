@@ -1,0 +1,3 @@
+/home/lexnavis/AI_DLC/src/cpp/build/CMakeFiles/kmeans.dir
+/home/lexnavis/AI_DLC/src/cpp/build/CMakeFiles/edit_cache.dir
+/home/lexnavis/AI_DLC/src/cpp/build/CMakeFiles/rebuild_cache.dir

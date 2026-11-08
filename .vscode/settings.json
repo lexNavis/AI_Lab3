@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/lexnavis/AI_DLC/cpp",
+    "clangd.arguments": [
+        "--query-driver=/usr/bin/g++"
+    ]
+}
